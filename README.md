@@ -1,4 +1,4 @@
 # PowerShell Scripts
 A collection of PowerShell scripts for automation, and system monitoring.
 
-Check out the Wiki documentation.[https://github.com/iamtiagomadeira/powershell-scripts/wiki]
+Check out the [https://github.com/iamtiagomadeira/powershell-scripts/wiki]Wiki documentation.
