@@ -12,9 +12,9 @@ This script monitors a specific Windows service and automatically restarts it if
 
 ### 📝 Prerequisites
 - PowerShell 5.1 or later.
-- Administrative privileges.
+- Run asAdministrative privileges.
 
-### 🛠️ Usage
-1. Clone this repository:
+### 🛠️ Local Setup
+Clone this repository:
    ```bash
    git clone https://github.com/your-username/PowerShell-Scripts.git
