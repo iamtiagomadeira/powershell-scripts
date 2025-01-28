@@ -1,8 +1,7 @@
 # PowerShell Scripts
-A collection of PowerShell scripts for automation, system monitoring, and other cool stuff.
 ---
 
-## 📜 ServiceMonitor.ps1
+### 📜 ServiceMonitor.ps1
 
 This script monitors a specific Windows service and automatically restarts it if it stops. It uses WMI events for efficient monitoring.
 
